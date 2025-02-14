@@ -65,7 +65,7 @@ Main Menu Options
     - Close the application (derr)
 
 ### Security Considerations
-🚨 IMPORTANT: This is a PROOF-OF-CONCEPT tool and should not be considered a complete or definitive security solution. Always complement automated tools with manual security reviews
+🚨 IMPORTANT: This is a PROOF-OF-CONCEPT tool and should not be considered a complete or definitive security solution. Always complement automated tools with manual security reviews.
 
 ### License
 Distributed under the MIT License. See LICENSE for more information.
